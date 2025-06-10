@@ -1,0 +1,9 @@
+openai>=1.12.0
+streamlit>=1.31.0
+python-dotenv>=1.0.0
+PyMuPDF>=1.23.0  # for PDF processing
+pdfplumber>=0.10.0  # for better text extraction
+Pillow>=10.0.0  # for image processing
+faiss-cpu>=1.7.4  # for vector search
+langchain>=0.1.0  # for text processing
+langchain-openai>=0.0.5  # OpenAI integration
