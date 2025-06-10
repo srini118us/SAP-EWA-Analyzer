@@ -13,7 +13,7 @@ A modern Streamlit app to analyze SAP EarlyWatch Alert PDF reports. Uses OpenAI'
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/ewapdf.git
+git clone https://github.com/srini118us/ewapdf.git
 cd ewapdf
 ```
 
@@ -64,4 +64,4 @@ Pull requests and issues are welcome!
 ---
 
 ## Author
-- [Your Name](https://github.com/YOUR_GITHUB_USERNAME) 
+- [Your Name](https://github.com/srini118us) 
